@@ -4,3 +4,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Layout in CSS
 
 Een oefening in document layout met CSS.
+
+## Licentie
+
+This project is licensed under the terms of the [MIT license](./LICENSE).
