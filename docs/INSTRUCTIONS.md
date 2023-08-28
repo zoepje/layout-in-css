@@ -79,13 +79,9 @@ Test in een browser of de versie die je net online gezet hebt ook via GitHub pag
 3. Vergelijk jouw implementatie even met een klasgenoot;
 4. Schrijf heel kort op wat je opviel bij het testen.
 
-## Criteria
+## Definition of Done
 
 Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
-
-Deze deeltaak hoort bij de gedragscriterium:
-
-- Methodisch Handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
