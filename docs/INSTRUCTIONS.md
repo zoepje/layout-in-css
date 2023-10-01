@@ -5,15 +5,15 @@ Een oefening in document layout met CSS.
 
 ## Context
 
-Deze leertaak hoort bij sprint 2 the client. Dit is een deeltaak die je individueel uitvoert en waarmee je een checkpoint bij je docent haalt.
+Deze leertaak hoort bij sprint 2 the client. Dit is een deeltaak die je individueel uitvoert en waarmee je bewijslast verzameld.
 
-In het college _S02W02 Layout, Grid en Flexbox_  wordt verteld over layout en grids, deze deeltaak behandeld verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts.
+In het college _S02W02 Fles en Flow_ wordt verteld over layout en grids, deze deeltaak behandeld verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts.
 
 > *“Wax on right hand. Wax off left hand. Wax on, wax off. Breathe in through nose, out through mouth. Wax on, wax off. Don't forget to breathe. Very important.”* - Mr. Miyagi
 
 ## Doel van deze opdracht
 
-In onderstaande afbeelding zien je 18 verschillende layouts welke je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met grid-template-areas en grid-area goed kunt realiseren. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden. 
+In onderstaande afbeelding zien je 18 verschillende layouts die je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met grid-template-areas en grid-area goed kunt realiseren. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden. 
 
 ![9 basic en 9 advanced layouts](../src/assets/layouts.png)
 
@@ -30,7 +30,7 @@ Je onderzoekt kort welke layout je nu gaat maken en denkt alvast na over hoe je 
 
 #### Aanpak
 
-1. (Eerste keer) Fork deze repository naar jouw eigen GitHub account;
+1. (Alleen de eerste keer) Fork deze repository naar jouw eigen GitHub account;
 2. Kies een layout die aan de beurt is;
 3. Bepaal de stappen die je neemt bij ontwerpen, bouwen, integreren en testen. Met andere woorden, lees de hele instructie even door.
 
