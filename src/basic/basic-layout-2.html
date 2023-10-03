@@ -6,19 +6,16 @@
     <title>Basic Layout 2</title>
     <link rel="stylesheet" href="../style.css" />
     <style>
-        /* Doe hier jouw ding! */
+      /* Doe hier jouw ding! */
       #basic-layout-2 {
-        margin: 20px;
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 0.5fr 3fr 1fr;
         grid-template-areas:
-          "h h h h"
-          "n n n n"
-          "m m m m"
-          "m m m m"
-          "m m m m"
-          "f f f f";
+          "h"
+          "n"
+          "m"
+          "f";
 
         grid-row-gap: 20px;
         grid-column-gap: 20px;
